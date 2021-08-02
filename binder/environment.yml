@@ -1,7 +1,6 @@
 name: jupyter-crdds-bootcamp
 channels:
   - conda-forge
-  - travis
   - anaconda
   - defaults
 dependencies:
@@ -16,6 +15,5 @@ dependencies:
   - urllib3
   - csvkit
   - datashader 
-  - functools 
   - requests 
   - fastparquet
